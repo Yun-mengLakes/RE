@@ -1,0 +1,15 @@
+﻿  源.c
+D:\Desktop\Project1\Project1\源.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Desktop\Project1\Project1\源.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Desktop\Project1\Project1\源.c(8): warning C4101: “h”: 未引用的局部变量
+D:\Desktop\Project1\Project1\源.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Desktop\Project1\Project1\源.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Desktop\Project1\Project1\源.c(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+D:\Desktop\Project1\Project1\源.c(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Project1.vcxproj -> D:\Desktop\Project1\Debug\Project1.exe
