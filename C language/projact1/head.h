@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <string.h> 
 #include <stdlib.h>
-#define PAI 3.1415926	//Ô¤¶¨Òå¦°µÄÖµ
+#define PAI 3.1415926	//é¢„å®šä¹‰Î çš„å€¼
 
-char ch;	//ÓÃÓÚË¢ĞÂ»º´æÇø
+char ch;	//ç”¨äºåˆ·æ–°ç¼“å­˜åŒº
 
-void one(double s);		/*¼ÆËãÃæ»ıº¯Êı*/
-void two(double c);		/*¼ÆËãÖÜ³¤º¯Êı*/
-void three(double s);	/*¼ÆËãÌå»ıº¯Êı*/
-
+void one(double s);		/*è®¡ç®—é¢ç§¯å‡½æ•°*/
+void two(double c);		/*è®¡ç®—å‘¨é•¿å‡½æ•°*/
+void three(double s);	/*è®¡ç®—ä½“ç§¯å‡½æ•°*/
